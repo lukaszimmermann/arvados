@@ -7,7 +7,6 @@ package controller
 import (
 	"database/sql"
 	"errors"
-	"net"
 	"net/http"
 	"net/url"
 	"strings"
